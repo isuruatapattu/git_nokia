@@ -1,2 +1,2 @@
-== LIBRARY TRACKER ==
+== GIT Training ==
 To be updated
